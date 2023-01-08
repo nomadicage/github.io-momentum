@@ -1,3 +1,72 @@
 .hidden{
     display: none;
 }
+#clock{
+    color: whitesmoke;
+    font-size:150px;
+    text-align: center;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+    transform: translate( -50%, -70% );
+}
+
+#greeting{
+    color: whitesmoke;
+    font-size:60px;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translate( -50%, -50% );
+}
+
+img{
+    width: 100%;
+	height: auto;
+    background-size: cover;        
+    margin: 0px;
+}
+
+#login-form{
+    color: whitesmoke;
+    font-size:30px;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translate( -50%, -50% );
+}
+
+#todo-form{
+    color: whitesmoke;
+    font-size:30px;
+    position: absolute;
+	top: 5%;
+	left: 6%;
+}
+
+#quote{
+    color: whitesmoke;
+    font-size:20px;
+    position: absolute;
+	top: 90%;
+	left: 50%;
+    transform: translate( -50%, -10% );
+}
+
+#weather{
+    color: whitesmoke;
+    font-size:20px;
+    position: absolute;
+	top: 10%;
+	left: 90%;
+    transform: translate( -10%, -90% );
+}
+
+#todo-List{
+    color: whitesmoke;
+    font-size:20px;
+    position: absolute;
+	top: 10%;
+	left: 5%;
+    
+}
